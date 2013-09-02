@@ -13,3 +13,6 @@ Add Google Script shortcut to run through multiple rows adding lat/lng and a lin
 5. Select the address column in your rows (you can select multiple) click the **Address** drowndown and select **Geocode Address(es)**.
 6. A popup will appear in the bottom right indicating the work being done.
 7. Be warned if doing a lot - _take a looong coffee break_.
+
+##TODO:
+* Tidy up the code
