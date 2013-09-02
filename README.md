@@ -1,4 +1,4 @@
-geocode_addresses
+Geocode addresses
 =================
 
 **Geocode addresses using the postcode inside a Google Spreadsheet.**
